@@ -75,8 +75,7 @@ var myHobby = "Watching movie."
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
-
+print("When the value doesn't change, we use constants. The variable allows to change, when you wants to add or substact. When you want to write a name or a sentence, you should you the constants.")
 /*:
  ### Question 5
  
