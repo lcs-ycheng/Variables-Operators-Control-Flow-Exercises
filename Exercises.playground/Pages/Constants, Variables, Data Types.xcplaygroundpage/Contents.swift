@@ -85,6 +85,7 @@ print("When the value doesn't change, we use constants. The variable allows to c
  
  */
 // Answer Question 5 below
+let randomDemand = 1_000_000
 
 /*:
  ### Question 6
