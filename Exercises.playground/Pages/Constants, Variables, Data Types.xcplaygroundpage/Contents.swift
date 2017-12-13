@@ -53,6 +53,10 @@ var reportCard = 89
  
  */
 // Answer Question 2 below
+let myAge = 16
+let otherAge = 40.0
+var averageAge = ((Double(myAge) + otherAge) / 2)
+
 
 
 /*:
