@@ -106,6 +106,10 @@ let randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
+var aVariable = 2017
+let aConstant = "Hello"
+//aVariable = aConstant
+print("Syntax error. Because aConstant is a string, and aVaribale is a Int. They can't be compared if they are different types. ")
 
 
 /*:
