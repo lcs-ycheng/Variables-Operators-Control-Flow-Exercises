@@ -100,7 +100,11 @@ let alwaysGetsAttentionBySayingGentsAndLadies = true
 let teachesOutdoorEd = true
 
 // Answer Question 4 below
-
+if true {
+    print("Must be Gordon!")
+} else {
+    print("Hmm, need more data to be sure.")
+}
 
 /*:
  
