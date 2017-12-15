@@ -120,8 +120,8 @@ print("Syntax error. Because aConstant is a string, and aVaribale is a Int. They
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
-
+print("It encourages or requires the programmers to be clear about the types of values their code can work with")
+    
 
 
 //: [Next](@next)
