@@ -43,6 +43,13 @@
  
  */
 // Answer Question 1 below
+var partTimeJobEarnings = 0.0
+partTimeJobEarnings += 0.5 * 22.5
+partTimeJobEarnings += 20.0
+partTimeJobEarnings /= 2
+partTimeJobEarnings += 25.0 * 4.0
+partTimeJobEarnings -= 50.0
+print(partTimeJobEarnings)
 
 
 /*:
