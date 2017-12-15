@@ -147,7 +147,16 @@ if isAction || isAction || starsTheRock {
  */
 
 // Answer Question 6 below
-
+let finialGrade = 53
+if finialGrade == 80 || finialGrade >= 80 {
+    print("You've learned a lot, well done.")
+} else if finialGrade >= 60 && finialGrade <= 79 {
+    print("Humm, not bad, but could be better.")
+} else if finialGrade >= 50 && finialGrade <= 59 {
+    print("Should have booked more Grove Times.")
+} else {
+    print("I literally can't even.")
+}
 
 
 
