@@ -100,7 +100,7 @@ let alwaysGetsAttentionBySayingGentsAndLadies = true
 let teachesOutdoorEd = true
 
 // Answer Question 4 below
-if true {
+if hasRedHair && alwaysGetsAttentionBySayingGentsAndLadies && teachesOutdoorEd {
     print("Must be Gordon!")
 } else {
     print("Hmm, need more data to be sure.")
@@ -125,7 +125,11 @@ let isComedy = false
 let starsTheRock = true
 
 // Answer Question 5 below
-
+if isAction || isAction || starsTheRock {
+    print("Let's watch.")
+} else {
+    print("Sorry, guess we'll have to play Tic-Tac-Toe instead.")
+}
 
 /*:
  
