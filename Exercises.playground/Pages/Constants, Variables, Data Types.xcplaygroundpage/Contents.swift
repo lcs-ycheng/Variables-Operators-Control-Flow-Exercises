@@ -37,8 +37,8 @@
 // Answer Question 1 below
 let firstName = "Yaming"
 let lastName = "Cheng"
-var grade = 10
-var reportCard = 89
+let grade = 10
+let reportCard = 89
 
 
 
